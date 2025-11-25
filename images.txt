@@ -6,5 +6,44 @@
 # 支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #--------------------------------------------------------
-busybox:1.37.0
-nginx:1.29
+docker pull filebrowser/filebrowser:v2.49.0
+docker pull apacherocketmq/rocketmq-dashboard:2.1.0
+docker pull apache/rocketmq:5.3.3
+docker pull apache/rocketmq:4.9.7
+docker pull rabbitmq:4.2.1-management
+docker pull nacos/nacos-server:v3.1.0
+docker pull nacos/nacos-server:v2.5.2
+docker pull apache/seata-server:2.5.0.jdk21
+docker pull apache/seata-server:2.5.0
+docker pull apache/seata-server:2.4.0.jdk21
+docker pull apache/seata-server:2.4.0
+docker pull apache/seata-server:2.3.0.jdk21
+docker pull redis:8.4.0
+docker pull redis:7.4.7
+docker pull mongo:8.2.2
+docker pull mongo:7.0.26
+docker pull mongo:6.0.26
+docker pull percona/percona-server:8.4.6
+docker pull percona/percona-server:8.0.43
+docker pull percona/percona-xtrabackup:8.4.0
+docker pull percona/percona-xtradb-cluster:8.4.6
+docker pull percona/percona-xtradb-cluster:8.0.43
+docker pull percona/proxysql2:2.7.3
+docker pull percona/proxysql2:2.6.5
+docker pull jenkins/jenkins:2.538-jdk21
+docker pull jenkins/jenkins:2.538
+docker pull gitlab/gitlab-ce:18.6.0-ce.0
+docker pull elasticsearch:9.2.1
+docker pull elasticsearch:8.19.7
+docker pull elasticsearch:7.17.28
+docker pull kibana:9.2.1
+docker pull kibana:8.19.7
+docker pull kibana:7.17.28
+docker pull sonatype/nexus3:3.86.2
+docker pull minio/minio:RELEASE.2025-05-24T17-08-30Z
+docker pull chishin/nginx-proxy-manager-zh:2.12.6
+docker pull tomcat:11.0.14-jre25
+docker pull tomcat:11.0.14-jre21
+docker pull tomcat:9.0.112-jre25
+docker pull tomcat:9.0.112-jre21
+docker pull tomcat:9.0.112-jre8
