@@ -1,6 +1,10 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#nginx
+# 支持加tag (不加默认latest)
+#xhofe/alist:latest
+# 支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
+# 支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#--------------------------------------------------------
+busybox:1.37.0
+nginx:1.29
