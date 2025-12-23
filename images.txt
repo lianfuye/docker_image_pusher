@@ -6,4 +6,5 @@
 # 支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #--------------------------------------------------------
-xuxueli/xxl-job-admin:3.3.1
+apache/seata-naming-server:2.5.0.jdk21
+apache/seata-naming-server:2.5.0
