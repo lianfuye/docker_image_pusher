@@ -6,5 +6,4 @@
 # 支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #--------------------------------------------------------
-apache/seata-naming-server:2.5.0.jdk21
-apache/seata-naming-server:2.5.0
+rustfs/rustfs:1.0.0-alpha.76
