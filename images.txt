@@ -7,7 +7,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #--------------------------------------------------------
 #rustfs/rustfs:1.0.0-alpha.76
-#dhi.io/redis:8
-postgres:18-alpine
-#dhi.io/postgres:17-alpine
-#dhi.io/postgres:16-alpine
+redis:8
+#postgres:18-alpine
+postgres:17-alpine
+postgres:16-alpine
