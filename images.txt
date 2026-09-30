@@ -8,6 +8,6 @@
 #--------------------------------------------------------
 #rustfs/rustfs:1.0.0-alpha.76
 #dhi.io/redis:8
-dhi.io/postgres:18-alpine
+postgres:18-alpine
 #dhi.io/postgres:17-alpine
 #dhi.io/postgres:16-alpine
